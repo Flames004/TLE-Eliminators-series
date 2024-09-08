@@ -1,5 +1,4 @@
-**Problem: Halloumi Boxes**
-<br>
+## Halloumi Boxes
 [Problem Link](https://codeforces.com/problemset/problem/1903/A)
 
 Theofanis is busy after his last contest, as now, he has to deliver many halloumis all over the world. He stored them inside `n` boxes, each of which has some number `a_i` written on it.
