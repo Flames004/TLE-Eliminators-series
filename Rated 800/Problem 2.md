@@ -1,4 +1,4 @@
-## Line Trip
+# Line Trip
 [Problem Link](https://codeforces.com/problemset/problem/1901/A)
 
 There is a road represented as a number line. You are located at point `0` on the number line, and you want to travel from point `0` to point `x`, and back to point `0`.

@@ -1,6 +1,5 @@
-# Problem: Filip's Water Filling Task
-
-## Problem Statement
+# Problem: Cover in Water
+[Problem Link](https://codeforces.com/problemset/problem/1900/A)
 
 Filip has a row of cells, some of which are blocked, and some are empty. He wants all the empty cells to have water in them. He has two actions at his disposal:
 
@@ -33,4 +32,26 @@ For each test case, output a single integer — the minimal number of **Action 1
 
 ## Example
 
-### Input
+**Input:**
+```
+5
+3
+...
+7
+##....#
+7
+..#.#..
+4
+####
+10
+#...#..#.#
+```
+
+**Output:**
+```
+2
+2
+5
+0
+2
+```
