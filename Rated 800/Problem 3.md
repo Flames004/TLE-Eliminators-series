@@ -1,4 +1,4 @@
-# Problem: Cover in Water
+# Cover in Water
 [Problem Link](https://codeforces.com/problemset/problem/1900/A)
 
 Filip has a row of cells, some of which are blocked, and some are empty. He wants all the empty cells to have water in them. He has two actions at his disposal:
