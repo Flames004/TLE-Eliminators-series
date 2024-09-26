@@ -43,9 +43,7 @@ The second line of each test case contains n
  (1≤bi≤109
 ) — the elements of the sequence.
 
-The sum of the values of n
- over all test cases does not exceed 2⋅105
-.
+The sum of the values of n over all test cases does not exceed 2⋅105.
 
 ### Output
 For each test case, output two lines. In the first line, output a single integer m
